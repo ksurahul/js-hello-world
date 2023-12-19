@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("The answer to 5 + 3 is 8");
+console.log("Hello, World!");
 
 
 /*  
